@@ -63,5 +63,5 @@ This project is a fully functional blog platform that allows users to sign up, l
 
 ### 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/blog-platform.git
+   git clone https://github.com/Rudra-Maity/Blog.git
    cd blog-platform
